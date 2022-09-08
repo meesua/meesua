@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @meesua
+- 👋 Hi, I’m Fortune
 - 👀 I’m interested in web developing and web design
 - 🌱 I’m currently learning javascript, REactjs and Nodejs
 - 💞️ I’m looking to collaborate on different project to advance my knowledge and build my confidence as a wev developer
